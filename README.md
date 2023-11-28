@@ -835,3 +835,4 @@ A better mechanism to enable people without github accounts to suggest changes w
 | YOT | Youth Offending Team | http://www.justice.gov.uk/youth-justice/courts-and-orders/youth-offending-teams | |
 | XHIBIT | Exchanging Hearing Information by Internet Technology | | Case management system used by Crown Courts only to record case details, hearing dates, applicant details etc. Note that this system is not used by Magistrates Courts. |
 | XXCCMS |  | | Name of an LAA database schema. According to old rules, XX is the standard prefix for customization in EBS (E-Business Suite) |
+| DISO | Digital Infrastructure Security Operations | | |
